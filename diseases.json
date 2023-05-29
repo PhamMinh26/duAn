@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Cảm lạnh",
+        "symptoms": ["Ho", "Sốt", "Mất mũi"]
+    },
+    {
+        "name": "Đau đầu",
+        "symptoms": ["Đau đầu nhức nhối", "Buồn nôn"]
+    },
+    {
+        "name": "Viêm họng",
+        "symptoms": ["Đau họng", "Khó nuốt", "Ho"]
+    },
+    {
+        "name": "Tiểu đường",
+        "symptoms": ["Thèm uống nước nhiều", "Đái nhiều"]
+    }
+]
